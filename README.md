@@ -15,7 +15,7 @@ This is a GPT 3 python project that allows you to train the chatbot and chat wit
 
 #### Download the code:
 
-> git clone https://github.com/reach-the-sky/GPT3-Chatbot.git
+> git clone https://github.com/ninjacoolers/GPT3-Chatbot.git
 
 > Change the variable __ai.api_key__ to your api key. 
 
